@@ -22,4 +22,4 @@ A data-driven visualization project using Power BI to analyze a complex Amazon s
 * Focused on **Color Psychology** and **Whitespace** to reduce visual clutter and prioritize data delivery.
 
 ## 🚀 How to View
-Since I do not have a Power BI Pro license to publish the interactive dashboard, please view the high-resolution screenshots provided in this repository in the \Dashboard_Screenshots file.
+Since I do not have a Power BI Pro license to publish the interactive dashboard, please view the high-resolution screenshots provided in this repository in the `/Dashboard_Screenshots` file.
